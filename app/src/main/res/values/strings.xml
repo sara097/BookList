@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KlientKsiegarni</string>
+    <string name="waitString">Czekam na połączenie</string>
+    <string name="connectBtn">Połącz</string>
+    <string name="title_activity_info">Info</string>
+</resources>
